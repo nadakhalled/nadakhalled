@@ -2,9 +2,9 @@
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-    Junior Computer Engineering student in Cairo Univeristy who is always passionate about learning more!
+    I am a Junior Computer Engineering student in Cairo Univeristy
   <br>
-    Currently a member in the Cairo University Shell Eco marathon racing team
+    Currently a member in the Cairo University Shell Eco Marathon racing team
 </div> 
 
 
