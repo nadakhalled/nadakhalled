@@ -1,4 +1,4 @@
-### Hello there, it's Nada
+### Hello there, it's Droplets of Nada!
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
