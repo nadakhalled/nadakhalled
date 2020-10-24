@@ -12,11 +12,11 @@
 
 
 ## 💻 Some of my Github Stats 
-
-![Nada's github stats](https://github-readme-stats.vercel.app/api?username=nadakhalled&show_icons=true&theme=synthwave)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhalled&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  ![Nada's github stats](https://github-readme-stats.vercel.app/api?username=nadakhalled&show_icons=true&theme=synthwave)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhalled&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/nada-elkhamy-5402b6188/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
