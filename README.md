@@ -4,7 +4,10 @@
   <h3> 👨🏻‍💻 About Me </h3>
     I am a Junior Computer Engineering student in Cairo Univeristy who loves building things up!
   <br>
-    Currently a member in the Cairo University Shell Eco Marathon racing team 🚗
+    Currently a member in the Cairo University Shell Eco Marathon racing team 
+  <a href="https://cairoecoteam.netlify.app/" target="_blank">
+    <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="25" height="25" />
+   </a>
 </div> 
 
 
