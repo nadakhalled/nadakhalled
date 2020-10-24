@@ -10,7 +10,9 @@
 
 ## 💻 Some of my Github Stats 
 
+<p align="center">
 ![Nada's github stats](https://github-readme-stats.vercel.app/api?username=nadakhalled&show_icons=true&theme=synthwave)
+  </p>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhalled&theme=radical&layout=compact&height=28" />
 
