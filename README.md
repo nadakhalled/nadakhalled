@@ -3,7 +3,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
     I am a Computer Engineering student in Cairo Univeristy who is always passionate about learning more 
-    Currently a member in the Cairo University Shell Eco marathon racing team Shell Icon
+    Currently a member in the Cairo University Shell Eco marathon racing team.
 </div> 
 
 
