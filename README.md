@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there, it's Nada
+
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
+    I am a computer engineering student in Cairo Univeristy who is
+</div> 
 
 Here are some ideas to get you started:
 
