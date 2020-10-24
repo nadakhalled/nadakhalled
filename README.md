@@ -12,7 +12,7 @@
 
 ![Nada's github stats](https://github-readme-stats.vercel.app/api?username=nadakhalled&show_icons=true&theme=synthwave)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhalled&theme=radical&layout=compact&height=28" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadakhalled&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <p align="center">
