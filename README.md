@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Some of my Github Stats
+## 💻 Some of my Github Stats 💻
 ![Piraces github stats](https://github-readme-stats.vercel.app/api?username=nadakhalled&show_icons=true)
 
 <br>
