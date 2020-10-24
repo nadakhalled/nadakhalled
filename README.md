@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats
 ![Piraces github stats](https://github-readme-stats.vercel.app/api?username=nadakhalled&show_icons=true)
+
+<br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/nadaelkhamy/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:nadaelkhamy@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
