@@ -2,7 +2,7 @@
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-    I am a Junior Computer Engineering student in Cairo Univeristy who loves building things up!
+    A junior Computer Engineering student who is always eager to learn more and loves building things up! 
   <br>
     Currently a member in the Cairo University Eco racing team 
   <a href="https://cairoecoteam.netlify.app/" target="_blank">
