@@ -3,11 +3,6 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
     A junior Computer Engineering student who is always eager to learn more and loves building things up! 
-  <br>
-    Currently a member in Cairo University Eco racing team 
-  <a href="https://cairoecoteam.netlify.app/" target="_blank">
-    <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="25" height="25" />
-   </a>
 </div> 
 
 
